@@ -1,0 +1,16 @@
+fix:
+  label: Bug Fixes
+  permalink: /fix
+  description: Bug Fixes
+feature:
+  label: New Features
+  permalink: /feature
+  description: New features added to the toolkit
+update:
+  label: Updates
+  permalink: /update
+  description: Modification of existing features
+other_news:
+  label: Other / News
+  permalink: /other
+  description: News or other updates
