@@ -20,13 +20,13 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://mmtk.maxttc.me/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
-  organizationName: "maxttcyt.github.io", // Usually your GitHub org/user name.
+  organizationName: "maxttcyt", // Usually your GitHub org/user name.
   projectName: "mmtk-docs", // Usually your repo name.
   deploymentBranch: "deployment", // The branch the deployment script should push to.
 
