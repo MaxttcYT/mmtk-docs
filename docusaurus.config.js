@@ -74,9 +74,18 @@ const config = {
     ],
   ],
 
-  themeConfig:
+  themeConfig: 
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "MSM2H3Y1Y2",
+
+        // Public API key: it is safe to commit it
+        apiKey: "203eea95ed54267d9e74d17337508637",
+        
+        indexName: "madagascar-modding-toolkit",
+      },
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       colorMode: {
