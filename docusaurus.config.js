@@ -26,9 +26,11 @@ const config = {
   baseUrl: "/",
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "maxttcyt", // Usually your GitHub org/user name.
+  organizationName: "maxttcyt.github.io", // Usually your GitHub org/user name.
   projectName: "mmtk-docs", // Usually your repo name.
+  deploymentBranch: "deployment", // The branch the deployment script should push to.
+
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
 
